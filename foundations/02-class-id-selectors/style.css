@@ -2,3 +2,14 @@
     background-color: #FFA6A6;
     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif', serif;
 }
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd_three {
+    background-color: #FFA6A6;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif', serif;
+    font-size: 24px;
+}
